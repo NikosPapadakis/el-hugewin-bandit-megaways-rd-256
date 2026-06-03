@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://el-hugewin-bandit-megaways-256.onrender.com/sitemap.xml
